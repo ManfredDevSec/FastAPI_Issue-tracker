@@ -29,3 +29,5 @@ class IssueOut(BaseModel):
     description : str
     priority : IssuePriority
     status : IssueStatus
+
+    
